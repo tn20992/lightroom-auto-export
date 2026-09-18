@@ -1,0 +1,1 @@
+# lightroom-auto-export
